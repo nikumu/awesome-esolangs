@@ -1,6 +1,10 @@
 # Awesome Esolangs
 
-<img src="brainfuck_code.png" align="right">
+<p align="center">
+  <a href="">
+    <img alt="Logo" src="brainfuck_code.png" min-width="230px" max-width="230px" width="230px" align="right">  
+  </a>
+</p>
 
 Curated list of awesome esoteric programming languages and resources.
 
