@@ -38,7 +38,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [Enterprise™](https://github.com/joaomilho/Enterprise) - Non deterministic unnecessarily statically typed language.
 * [False](http://strlen.com/false-language) - Heavily offuscated language with a minimal implementation.
 * [Fetlang](https://github.com/Property404/fetlang) - Designed such that source code looks like poorly written fetish erotica.
-* [Funciton](https://esolangs.org/wiki/Funciton) - two-dimensional, minimalistic, declarative programming language 
+* [Funciton](https://esolangs.org/wiki/Funciton) - Two-dimensional, minimalistic, declarative programming language 
 * [Headache](https://github.com/LucasMW/Headache) - Programming Language that compiles to 8 Bit Brainfuck.
 * [INTERCAL](http://www.catb.org/~esr/intercal/) - Parody language intended to be completely different from other languages.
 * [JSFuck](https://esolangs.org/wiki/JSFuck) - Esoteric programming style based on the atomic parts of JavaScript.
@@ -46,6 +46,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) - Syntax resembling Internet slang.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) - Brainfuck-based language, where the commands are orangutan words.
+* [Orca](https://esolangs.org/wiki/Orca) - Two-dimensional esoteric programming language in which every letter of the alphabet is an operation, where lowercase letters operate on bang, uppercase letters operate each frame.
 * [reMorse](http://esolangs.org/wiki/reMorse) - Morse-styled language.
 * [Rockstar](https://github.com/dylanbeattie/rockstar) - Designed for creating computer programs that are also song lyrics.
 * [Piet](http://www.dangermouse.net/esoteric/piet.html) -  Language in which programs look like abstract paintings using colors as code. Named after Piet Mondrian.
