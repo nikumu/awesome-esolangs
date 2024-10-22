@@ -22,6 +22,7 @@ Curated list of awesome esoteric programming languages and resources.
 ## Esolangs
 
 * [Ajsone](https://www.quaxio.com/ajsone) - Language defined completely in JSON.
+* [ArnoldC](https://esolangs.org/wiki/ArnoldC) - Based on the best one-liners of Arnold Schwarzenegger.
 * [Asciidots](https://esolangs.org/wiki/AsciiDots) - Esolang inspired by ASCII art.
 * [Befunge](https://esolangs.org/wiki/Befunge) - Two-dimensional language.
 * [BIRL](https://birl-language.github.io/) - Language inspired by a [YouTube video](https://www.youtube.com/watch?v=zwvsa7DzzHY) that went viral, and many of its commands are quotes from the video.
@@ -57,3 +58,12 @@ Curated list of awesome esoteric programming languages and resources.
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) - Language that does things whenever it wants.
 * [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) - Use only white-characters (space, tabs and newlines).
 * [Z](https://esolangs.org/wiki/Z) - Use only the letter z.
+
+## Resources
+
+## Articles
+
+## Books
+* [Strange Code: Esoteric Languages That Make Programming Fun Again](https://www.amazon.com/Strange-Code-Esoteric-Languages-Programming/dp/1718502400) - Strengthen your overall coding skills by exploring the wonderful, wild, and often weird world of esoteric languages.
+
+## Community
