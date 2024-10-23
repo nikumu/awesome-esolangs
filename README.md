@@ -65,9 +65,14 @@ Explore creative and unconventional languages that challenge traditional logic a
 
 ## Resources
 
+* [Esolang](https://esolangs.org) - Wiki of esoteric programming languages and related Resources.
+
 ## Articles
+
+* [The Aesthetics of Multicoding Esolangs)](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1037&context=elo2020) - The aesthetics of multicoding esolangs article.
 
 ## Books
 * [Strange Code: Esoteric Languages That Make Programming Fun Again](https://www.amazon.com/Strange-Code-Esoteric-Languages-Programming/dp/1718502400) - Strengthen your overall coding skills by exploring the wonderful, wild, and often weird world of esoteric languages.
 
 ## Community
+* [Reddit Esolangs](https://www.reddit.com/r/esolangs) - Reddit community on esolangs.
