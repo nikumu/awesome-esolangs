@@ -38,6 +38,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [Enterprise™](https://github.com/joaomilho/Enterprise) - Non deterministic unnecessarily statically typed language.
 * [False](http://strlen.com/false-language) - Heavily offuscated language with a minimal implementation.
 * [Fetlang](https://github.com/Property404/fetlang) - Designed such that source code looks like poorly written fetish erotica.
+* [FreakC](https://esolangs.org/wiki/FreakC) - Experimental Batch-like language written in Batch which compiles to Batch
 * [Funciton](https://esolangs.org/wiki/Funciton) - Two-dimensional, minimalistic, declarative programming language 
 * [Headache](https://github.com/LucasMW/Headache) - Programming Language that compiles to 8 Bit Brainfuck.
 * [INTERCAL](http://www.catb.org/~esr/intercal/) - Parody language intended to be completely different from other languages.
