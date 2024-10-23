@@ -61,7 +61,7 @@ Explore creative and unconventional languages that challenge traditional logic a
 * [Velato](https://esolangs.org/wiki/Velato) - Language that uses MIDI files as source, programs are defined by the pitch and order of notes.
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) - Language that does things whenever it wants.
 * [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) - Use only white-characters (space, tabs and newlines).
-* [Z](https://esolangs.org/wiki/Z) - Use only the letter z.
+* [Z](https://esolangs.org/wiki/Z) - Z is a programming language, which uses only lowercase and capital Z, space, and newline.
 
 ## Resources
 
