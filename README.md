@@ -8,6 +8,8 @@
 
 Curated list of awesome esoteric programming languages and resources.
 
+Explore creative and unconventional languages that challenge traditional logic and inspire new ways of thinking about code and computation.
+
 > An esoteric programming language, or esolang, is a computer programming language designed to experiment with weird ideas, to be hard to program in,
 > or as a joke, rather than for practical use. 
 
