@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="">
-    <img alt="Logo" src="brainfuck_code.png" min-width="230px" max-width="230px" width="230px" align="right">  
+    <img alt="Logo" src="brainfuck_code.png" min-width="370px" max-width="370px" width="370px" align="right">  
   </a>
 </p>
 
