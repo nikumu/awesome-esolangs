@@ -55,6 +55,7 @@ Explore creative and unconventional languages that challenge traditional logic a
 * [Rockstar](https://github.com/dylanbeattie/rockstar) - Designed for creating computer programs that are also song lyrics.
 * [Piet](http://www.dangermouse.net/esoteric/piet.html) -  Language in which programs look like abstract paintings using colors as code. Named after Piet Mondrian.
 * [Shakespeare](http://shakespearelang.sourceforge.net) - Language where the code appear to be Shakespearean plays.
+* [SlowLang](https://github.com/sebin-gg/slowlang) - Python-like language and IDE that punishes typing above 30 WPM with turtle rage and haiku errors.
 * [Suzy](https://esolangs.org/wiki/Suzy) - 3D language inspired in Befunge.
 * [Thue](https://esolangs.org/wiki/Thue) - Matrioshka language based on nondeterministic string rewriting which the author describes as a constraint-programming version of a Turing tarpit.
 * [Unary](https://esolangs.org/wiki/Unary) - Brainfuck-based language where all the commands are 0.
